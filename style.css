@@ -31,3 +31,8 @@
   color: rgba(0, 0, 0, 0.5);
   font-size: 14px;
 }
+
+.btn{
+  background-color: #E95A08;
+  color: white;
+}
