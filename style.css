@@ -21,3 +21,12 @@
 
 /* Tailwind */
 @import 'tailwind.css';
+
+/* Text Colors */
+.orange{
+  color: #E95A08;
+}
+
+.paragraph{
+  color: rgba(0, 0, 0, 0.5);
+}
