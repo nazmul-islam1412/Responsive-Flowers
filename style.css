@@ -35,3 +35,19 @@
   background-color: #E95A08;
   color: white;
 }
+
+
+/* Animation */
+@keyframes spin-infinite {
+  0%
+  {
+    transform: rotate(0deg);
+  }
+  100% {
+    transform: rotate(360deg);
+  }
+}
+
+.animate-spin-infinite {
+  animation: spin-infinite 6s linear infinite;
+}
