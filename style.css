@@ -52,3 +52,6 @@
 .animate-spin-infinite {
   animation: spin-infinite 6s linear infinite;
 }
+ .cursor{
+  cursor: pointer;
+ }
